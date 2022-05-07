@@ -1,0 +1,8 @@
+project_name = "iti-42-ahmed"
+vpc_name = "vpc-network"
+subnet-1_region = "europe-west1"
+subnet-2_region = "europe-west1"
+subnet-2_name = "management-subnet"
+subnet-1_name = "restricted-subnet"
+subnet-1_cidr = "10.0.1.0/24"
+subnet-2_cidr = "10.0.2.0/24"
